@@ -11,7 +11,7 @@ https://gas.graviti.cn/dataset/data-decorators/UrbanObjectDetection
 
 数据集格式：
 
-![1647778526697](C:\Users\MI\AppData\Roaming\Typora\typora-user-images\1647778526697.png)
+![image](https://user-images.githubusercontent.com/88768188/159166560-3c752d6e-d861-4c41-bd80-7b1bf28ce4f7.png)
 
 
 
