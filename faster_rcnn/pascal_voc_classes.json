@@ -1,0 +1,9 @@
+{
+    "person": 1,
+    "bicycle": 2,
+    "motorbike": 3,
+    "trafficlight": 4,
+    "trafficsignal": 5,
+    "bus": 6,
+    "car": 7
+}
